@@ -1428,3 +1428,9 @@ footer .goto-top {
     margin-right: 20px; } }
 
 /*# sourceMappingURL=style.css.map */
+@media only screen and (min-width: 1440px) {
+  .col-lg-8.col-xs-12.pad-zero {
+    right: 5em;
+    background-color: lightblue;
+  }
+}
